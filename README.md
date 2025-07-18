@@ -1,4 +1,4 @@
-usage: python dir_scanner.py -u http://example.com -f swagger_path_list.txt
+usage: python3 Swagger-Hunter.py -u http://example.com -f swagger_path_list.txt
 
 Command && parameter:
 
